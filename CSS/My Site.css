@@ -243,6 +243,10 @@ hr{
     margin: 100px 5px 50px 5px;
     width: 100%;
   }
+  
+  .land{
+  width: auto;
+ }
   .middle-container {
     width: 100%;
     font-size: 1.1rem;
