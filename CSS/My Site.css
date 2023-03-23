@@ -225,4 +225,57 @@ hr{
   padding: 20px 40px 20px 40px;
   margin: 50px 0 50px 0;
   }
+  p.intro{
+  font-size: 2rem;
+}
+
+hr{
+  border: dotted #EAF6F6 10px;
+  border-bottom: none;
+  width: 40%;
+}
+
+  .profile {
+    margin: 100px auto 50px auto;
+    width: 100%;
+  }
+  .middle-container {
+    width: 80%;
+    font-size: 2rem;
+  }
+
+  .contact-me {
+    width: 100%;
+  }
+
+  .me2, .me-dev {
+    float: none;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+  }
+
+  .skill-row {
+    margin: 20px auto;
+    font-size: 2rem;
+    text-align: center;
+  }
+.bottom-container, .copyright, .rights {
+    font-size: 1.8rem;
+  }
+.bottomCloud{
+    top: 50px;
+}
+
+.topCloud{
+  top: 350px;
+}
+.btn{
+  font-size: 2rem;
+  padding: 20px 40px 20px 40px;
+  margin: 50px 0 50px 0;
+  }
+.contact-msg {
+    width: 100%;
+}
 }
