@@ -239,7 +239,8 @@ hr{
     width: 40%;
   }
    .my-name, .my-name1{
-       height: 100px !important;
+       height: 70px !important;
+       margin-right: 10px;
     }
   .profile {
     margin: 100px 5px 50px 5px;
