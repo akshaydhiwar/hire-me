@@ -240,7 +240,6 @@ hr{
   }
    .my-name, .my-name1{
        height: 50px !important;
-       margin-right: 10px;
     }
   .profile {
     margin: 100px 5px 50px 5px;
@@ -278,12 +277,12 @@ hr{
     }
   .bottomCloud{
       top: 80px;
-      right: 0px
+      right: -30px
   }
 
   .topCloud{
     top: 320px;
-    left: 0px;
+    left: -30px;
   }
   .btn{
     font-size: 1.1rem;
