@@ -226,8 +226,7 @@ hr{
   margin: 50px 0 50px 0;
   }
   .name{
-    height: auto;
-    width: 300px;
+    width: 250px;
   }
   p.intro{
     font-size: 1.5rem;
@@ -244,9 +243,11 @@ hr{
     width: 100%;
   }
   
-  .land{
-  width: 300px;
- }
+ .land {
+    width: 400px !important;
+    padding-top: 50px;
+    margin-bottom: -4px;
+}
   .middle-container {
     width: 100%;
     font-size: 1.1rem;
