@@ -229,7 +229,7 @@ hr{
   margin: 50px 0 50px 0;
   }
   .name{
-    width: 70px;
+    width: 50%;
   }
   p.intro{
     font-size: 1.5rem;
@@ -247,7 +247,7 @@ hr{
   }
   
  .land {
-    width: 500px !important;
+    width: 100%;
     padding-top: 50px;
     margin-bottom: -4px;
 }
@@ -277,12 +277,12 @@ hr{
     }
   .bottomCloud{
       top: 80px;
-      right: -30px
+      right: 0px
   }
 
   .topCloud{
     top: 320px;
-    left: -30px;
+    left: 0px;
   }
   .btn{
     font-size: 1.1rem;
