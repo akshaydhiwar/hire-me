@@ -3,6 +3,7 @@ body {
   font-family:"adobe-garamond-pro",sans-serif;
   margin: 0;
   text-align: center;
+  overflow-x: hidden !important;
 }
 
 h1 {
