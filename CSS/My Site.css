@@ -248,8 +248,8 @@ hr{
   
  .land {
     width: 100%;
-    padding-top: 50px;
-    margin-bottom: -4px;
+    margin: 0 0 0 -4px;
+    padding-top: 200px;
 }
   .middle-container {
     width: 100%;
