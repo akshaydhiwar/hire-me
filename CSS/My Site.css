@@ -240,6 +240,7 @@ hr{
   }
    .my-name, .my-name1{
        height: 50px !important;
+       margin-left: 10px;
     }
   .profile {
     margin: 100px 5px 50px 5px;
@@ -248,8 +249,7 @@ hr{
   
  .land {
     width: 100%;
-    margin: 0 0 0 -4px;
-    padding-top: 200px;
+    margin: 200px 0 -4px 0;
 }
   .middle-container {
     width: 100%;
