@@ -226,7 +226,8 @@ hr{
   margin: 50px 0 50px 0;
   }
   .name{
-    height: auto !important;
+    height: auto;
+    width: 300px;
   }
   p.intro{
     font-size: 1.5rem;
