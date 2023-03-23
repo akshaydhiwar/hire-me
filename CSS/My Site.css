@@ -238,8 +238,8 @@ hr{
     border-bottom: none;
     width: 40%;
   }
-   .name{
-       width: 50px !important;
+   .my-name, .my-name1{
+       height: 50px !important;
        margin-right: 20px;
     }
   .profile {
