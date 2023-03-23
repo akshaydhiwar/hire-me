@@ -1,4 +1,6 @@
-
+html,body{
+    overflow-x: hidden;
+}
 body {
   font-family:"adobe-garamond-pro",sans-serif;
   margin: 0;
