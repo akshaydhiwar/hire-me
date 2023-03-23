@@ -215,33 +215,37 @@ hr{
 
 @media screen and (max-width: 480px) {
   .skill-row {
-    font-size: 2rem;
+    font-size: 1.1rem;
   }
 .bottom-container, .copyright, .rights {
-      font-size: 1.8rem;
+      font-size: 1.1rem;
   }
 .btn{
-  font-size: 2rem;
+  font-size: 1.1rem;
   padding: 20px 40px 20px 40px;
   margin: 50px 0 50px 0;
   }
+  .name{
+    height: 100px;
+    width: 300px;
+  }
   p.intro{
-  font-size: 2rem;
-}
+    font-size: 1.5rem;
+  }
 
-hr{
-  border: dotted #EAF6F6 10px;
-  border-bottom: none;
-  width: 40%;
-}
+  hr{
+    border: dotted #EAF6F6 10px;
+    border-bottom: none;
+    width: 40%;
+  }
 
   .profile {
-    margin: 100px auto 50px auto;
+    margin: 100px 5px 50px 5px;
     width: 100%;
   }
   .middle-container {
-    width: 80%;
-    font-size: 2rem;
+    width: 100%;
+    font-size: 1.1rem;
   }
 
   .contact-me {
@@ -257,25 +261,32 @@ hr{
 
   .skill-row {
     margin: 20px auto;
-    font-size: 2rem;
+    font-size: 1.1rem;
     text-align: center;
   }
-.bottom-container, .copyright, .rights {
-    font-size: 1.8rem;
+  .bottom-container, .copyright, .rights {
+      font-size: 1.1rem;
+    }
+  .bottomCloud{
+      top: 80px;
+      right: -30px
   }
-.bottomCloud{
-    top: 50px;
-}
 
-.topCloud{
-  top: 350px;
-}
-.btn{
-  font-size: 2rem;
-  padding: 20px 40px 20px 40px;
-  margin: 50px 0 50px 0;
+  .topCloud{
+    top: 320px;
+    left: -30px;
   }
-.contact-msg {
+  .btn{
+    font-size: 1.1rem;
+    padding: 20px 40px 20px 40px;
+    margin: 50px 0 50px 0;
+    }
+  .contact-msg {
     width: 100%;
+    margin: 0px 15px 100px 10px;
 }
+  }
+  p{
+    margin: 0px 15px 0 10px;
+  }
 }
