@@ -2,6 +2,7 @@ html,body{
     overflow-x: hidden;
 }
 body {
+  height: 100vh;
   font-family:"adobe-garamond-pro",sans-serif;
   margin: 0;
   text-align: center;
