@@ -176,7 +176,7 @@ hr{
     width: 100%;
   }
   .middle-container {
-    width: 80%;
+    width: 70%;
     font-size: 2rem;
   }
 
@@ -239,8 +239,8 @@ hr{
     width: 40%;
   }
    .my-name, .my-name1{
-       height: 80px !important;
-       margin-left: 10px;
+       height: 60px !important;
+       margin-left: -10px;
     }
   .profile {
     margin: 100px 5px 50px 5px;
@@ -249,7 +249,7 @@ hr{
   
  .land {
     width: 100%;
-    margin: 100px 0 -4px 0;
+    margin: 60px 0 -4px 0;
 }
   .middle-container {
     width: 100%;
