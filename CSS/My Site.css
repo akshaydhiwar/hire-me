@@ -104,13 +104,13 @@ a:hover{
 .me2{
   float: left;
   margin-right: 180px;
-  margin-left: 100px;
+  margin-left: 50px;
 }
 
 .me-dev{
   float: right;
   margin-left: 180px;
-  margin-right: 100px;
+  margin-right: 50px;
 }
 
 .contact-msg{
